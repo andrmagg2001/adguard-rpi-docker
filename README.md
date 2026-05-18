@@ -30,8 +30,8 @@ A complete guide to self-host **AdGuard Home** on a Raspberry Pi using Docker Co
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/andrmagg2001/adguard-rpi.git
-cd adguard-rpi
+git clone https://github.com/andrmagg2001/adguard-rpi-docker.git
+cd adguard-rpi-docker
 ```
 
 ### 2. Start the container
