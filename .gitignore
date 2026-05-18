@@ -1,0 +1,15 @@
+# AdGuard Home runtime data (generated, not for version control)
+adguard-work/
+adguard-conf/
+
+# Pi-hole leftovers
+etc-pihole/
+etc-dnsmasq.d/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.env
+.env*
